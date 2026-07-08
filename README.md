@@ -20,42 +20,27 @@ C++ Developer • DSA Enthusiast • Aspiring Software Engineer
 
 🎓 B.Tech Student
 
-💻 Passionate about Data Structures & Algorithms using C++
+💻 Passionate about Data Structures & Algorithms using **C++**
 
-🚀 Learning Software Development
+🚀 Currently learning **Software Development**
 
-📚 Exploring C++ STL, Git & GitHub
+📚 Exploring **C++ STL**, **Git**, and **GitHub**
 
-🎯 Goal: Become a Software Engineer at a Product-Based Company
+🎯 Aspiring to become a **Software Engineer** at a Product-Based Company
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+<p align="center">
 
-- C++
-- C
+<img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode"/>
 
-### Tools
-
-- Git
-- GitHub
-- VS Code
+</p>
 
 ---
 
-# 📂 Featured Repositories
-
-## ⭐ DSA-LeetCode
-
-Accepted LeetCode solutions written in **C++** and automatically synchronized using **LeetSync**.
-
-🔗 https://github.com/shailesh2609/DSA-LeetCode
-
----
-
-# 📚 Currently Learning
+# 🌱 Currently Learning
 
 - Data Structures
 - Algorithms
@@ -65,34 +50,69 @@ Accepted LeetCode solutions written in **C++** and automatically synchronized us
 
 ---
 
-# 🏆 Coding Profile
+# 🚀 Featured Repository
 
-## LeetCode
+## ⭐ DSA-LeetCode
 
-https://leetcode.com/u/Shailesh_26/
+A collection of my accepted LeetCode solutions written in **C++** and automatically synchronized using **LeetSync**.
+
+🔗 https://github.com/shailesh2609/DSA-LeetCode
+
+---
+
+# 📂 Repository Roadmap
+
+| Repository | Status |
+|------------|--------|
+| ⭐ DSA-LeetCode | ✅ Available |
+| 📘 Cpp-Notes | 🚧 Coming Soon |
+| 🌳 Data-Structures | 🚧 Coming Soon |
+| ⚡ Algorithms | 🚧 Coming Soon |
+| 💻 Projects | 🚧 Coming Soon |
+| 🧠 Operating-System-Notes | 🚧 Coming Soon |
+| 🗄️ DBMS-Notes | 🚧 Coming Soon |
+| 🌐 Computer-Networks | 🚧 Coming Soon |
 
 ---
 
 # 🎯 2026 Goals
 
-- Solve 500+ LeetCode Problems
-- Build 5+ Projects
-- Master DSA
-- Learn Core CS Subjects
-- Prepare for Software Engineering Interviews
+- ✅ Solve **500+ LeetCode Problems**
+- ✅ Master Data Structures & Algorithms
+- ✅ Build Real-World Projects
+- ✅ Learn Core Computer Science Subjects
+- ✅ Prepare for Software Engineering Placements
 
 ---
 
-# 📫 Connect
+# 🏆 Coding Profiles
 
-GitHub
+### 💻 GitHub
 
 https://github.com/shailesh2609
 
-LeetCode
+### 🧩 LeetCode
 
 https://leetcode.com/u/Shailesh_26/
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📈 GitHub Activity
+
+I believe in **consistent learning** and regularly update my repositories with new code, notes, and projects.
+
+---
+
+# 🤝 Let's Connect
+
+If you're interested in discussing DSA, C++, or Software Development, feel free to connect with me through GitHub or LeetCode.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Consistency beats intensity."*
+
+</div>
