@@ -1,122 +1,82 @@
 <h1 align="center">Hi 👋, I'm Shailesh Sharma</h1>
 
 <h3 align="center">
-Software Developer • Full Stack Web Development • C++ • DSA
+Software Developer • Full Stack Web Developer • C++ Programmer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/shailesh2609">
-    <img src="https://img.shields.io/badge/GitHub-shailesh2609-181717?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="https://leetcode.com/u/Shailesh_26/">
-    <img src="https://img.shields.io/badge/LeetCode-Shailesh__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+Building scalable web applications and solving algorithmic problems with modern C++.
 </p>
 
----
+<p align="center">
 
-# 👨‍💻 About Me
+<a href="https://github.com/shailesh2609">
+<img src="https://img.shields.io/badge/GitHub-shailesh2609-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🎓 B.Tech Student
+<a href="https://leetcode.com/u/Shailesh_26/">
+<img src="https://img.shields.io/badge/LeetCode-Shailesh__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-💻 Passionate about Software Development and Problem Solving
+<!-- Replace with your LinkedIn -->
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🌐 Building responsive and interactive Web Applications
+</p>
 
-🧠 Practicing Data Structures & Algorithms using C++
+## 🛠 Tech Stack
 
-🚀 Continuously learning new technologies and improving development skills
+<p align="center">
 
-🎯 Aspiring Software Engineer
+<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,figma"/>
 
----
+</p>
 
-# 🛠️ Tech Stack
+## 📊 GitHub Statistics
 
-### Languages
+<p align="center">
 
-- C++
-- C
-- JavaScript
-- HTML5
-- CSS3
+<img height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shailesh2609&show_icons=true&theme=github_dark&hide_border=true"/>
 
-### Frontend
+<img height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shailesh2609&layout=compact&theme=github_dark&hide_border=true"/>
 
-- React.js
-- Tailwind CSS
-- Bootstrap
+</p>
+<p align="center">
 
-### Tools
+<img src="https://streak-stats.demolab.com?user=shailesh2609&theme=github-dark&hide_border=true"/>
 
-- Git
-- GitHub
-- VS Code
-- Figma
+</p>
 
----
+## 🚀 Featured Projects
 
-# 🌱 Currently Learning
+| Project | Description |
+|---------|-------------|
+| 🚀 DSA-LeetCode | Automated LeetCode repository with GitHub Actions, live statistics and topic analytics |
+| 🌐 Web Development Projects | React, HTML, CSS, JavaScript based applications |
 
-- Data Structures & Algorithms
-- React Ecosystem
-- Backend Development
-- Object-Oriented Programming
-- Git & GitHub
 
----
+## 🎯 Current Focus
 
-# 🚀 What You'll Find On My GitHub
+- 📚 Solving 500+ LeetCode Problems
+- ⚛️ Full Stack Web Development
+- 🧩 Object-Oriented Programming
+- 🖥 Backend Development
+- ☁️ Deployment & Cloud
 
-✔️ Web Development Projects
+<p align="center">
 
-✔️ LeetCode Solutions
+<img src="https://komarev.com/ghpvc/?username=shailesh2609&style=for-the-badge"/>
 
-✔️ C++ Notes
+</p>
+<p align="center">
 
-✔️ DSA Practice
+<b>Consistency compounds.</b>
 
-✔️ Learning Resources
+<br>
 
-✔️ Future Full Stack Projects
+<i>Keep Learning • Keep Building • Keep Improving 🚀</i>
 
----
-
-# 🧩 Coding Profile
-
-### LeetCode
-
-https://leetcode.com/u/Shailesh_26/
-
----
-
-# 🎯 Goals
-
-- Solve 500+ LeetCode Problems
-- Build Full Stack Projects
-- Master DSA
-- Learn Core Computer Science Subjects
-- Prepare for Software Engineering Interviews
-
----
-
-# 🤝 Connect
-
-GitHub
-
-https://github.com/shailesh2609
-
-LeetCode
-
-https://leetcode.com/u/Shailesh_26/
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Keep Learning. Keep Building. Keep Improving."*
-
-</div>
+</p>
