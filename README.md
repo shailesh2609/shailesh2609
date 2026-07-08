@@ -55,15 +55,6 @@ Accepted LeetCode solutions written in **C++** and automatically synchronized us
 
 ---
 
-## 🚧 Coming Soon
-
-- Cpp-Notes
-- Data-Structures
-- Algorithms
-- Projects
-
----
-
 # 📚 Currently Learning
 
 - Data Structures
