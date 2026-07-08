@@ -65,13 +65,7 @@ A collection of my accepted LeetCode solutions written in **C++** and automatica
 | Repository | Status |
 |------------|--------|
 | ⭐ DSA-LeetCode | ✅ Available |
-| 📘 Cpp-Notes | 🚧 Coming Soon |
-| 🌳 Data-Structures | 🚧 Coming Soon |
-| ⚡ Algorithms | 🚧 Coming Soon |
-| 💻 Projects | 🚧 Coming Soon |
-| 🧠 Operating-System-Notes | 🚧 Coming Soon |
-| 🗄️ DBMS-Notes | 🚧 Coming Soon |
-| 🌐 Computer-Networks | 🚧 Coming Soon |
+
 
 ---
 
