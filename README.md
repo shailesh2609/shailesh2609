@@ -37,11 +37,7 @@ Building scalable web applications and solving algorithmic problems with modern 
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shailesh2609&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shailesh2609&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=shailesh2609"/>
 
 </p>
 <p align="center">
