@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shailesh Sharma</h1>
-
-<h3 align="center">
-Software Developer • Full Stack Web Developer • C++ Programmer
-</h3>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=280&color=0:4F46E5,20:3B82F6,40:06B6D4,60:14B8A6,80:22C55E,100:84CC16t&text=Shailesh%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Software%20Developer%20|%20Full%20Stack%20Developer%20|%20C%2B%2B%20|%20DSA&descSize=20&descAlignY=50"/>
+</p>
 
 <p align="center">
-Building scalable web applications and solving algorithmic problems with modern C++.
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+scalable+web+applications;Solving+algorithmic+problems+with+modern+C%2B%2B" />
 </p>
 
 <p align="center">
